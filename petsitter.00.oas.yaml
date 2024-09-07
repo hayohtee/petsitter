@@ -52,7 +52,7 @@ components:
         id:
           type: integer
         status:
-          type: integer
+          type: string
         user_id:
           type: integer
         job_id:
